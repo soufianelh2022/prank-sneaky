@@ -2,7 +2,7 @@
 	"ADS":
 		   {
 		
-			"banner_type":"admob",
+			"banner_type":"yandex",
 			"inter_type":"admob",
 			"native_type":"admob",
 			
@@ -11,7 +11,7 @@
 			"unity_id":"4292105",
 			
 		
-         "banner_yandex":"ca-app-pub56099942",
+         "banner_yandex":"R-M-1695214-21",
 			"interstitial_yandex":"ca-app-pub-567",
 			"native_yandex":"ca-app-pub-4567",
 			"rewarde_yandex":"ca-app-pub-4567",
