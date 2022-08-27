@@ -3,8 +3,8 @@
 		   {
 		
 			"banner_type":"yandex",
-			"inter_type":"yandex",
-			"native_type":"yandex",
+			"inter_type":"ironsource",
+			"native_type":"ironsource",
 			
 			
 			
@@ -48,7 +48,7 @@
 
 		   
 		   "appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
-		   "ironsource_id" : "1637f788d"
+		   "ironsource_id" : "115199abd"
 		  
 		   
   
