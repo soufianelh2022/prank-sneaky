@@ -3,7 +3,7 @@
 		   {
 		
 			"banner_type":"yandex",
-			"inter_type":"ironsource",
+			"inter_type":"admob",
 			"native_type":"admob",
 			
 			
@@ -16,18 +16,18 @@
 			"native_yandex":"R-M-1723200-3",
 			"rewarde_yandex":"R-M-1723200-5",
 
-			"banner_admob":"ca-app-pub-4895400046434961/3540236634",
-			"interstitial_admob":"ca-app-pub-8095421128439590/2566997860",
+			"banner_admob":"",
+			"interstitial_admob":"ca-app-pub-4058357467693617/3091968826",
 			"native_admob":"ca-app-pub-4058357467693617/3191739858",
 			 "rewarde_admob":"ca-app-pub-4895400046434961/3861183724",  
    
 			"banner_admob1":"ca-app-pub-8183487897567629/6013690458",
-			"interstitial_admob1":"ca-app-pub-8095421128439590/2566997860",
+			"interstitial_admob1":"ca-app-pub-4058357467693617/3091968826",
 			"native_admob1":"ca-app-pub-4058357467693617/3191739858",
 			 "rewarde_admob1":"ca-app-pub-8183487897567629/5822118766",
    
 			"banner_admob2":"ca-app-pub-8183487897567629/6013690458",
-			"interstitial_admob2":"ca-app-pub-8183487897567629/3701591578",
+			"interstitial_admob2":"ca-app-pub-4058357467693617/3091968826",
 			"native_admob2":"ca-app-pub-4058357467693617/3191739858",
 			 "rewarde_admob2":"ca-app-pub-8183487897567629/5822118766",
    
