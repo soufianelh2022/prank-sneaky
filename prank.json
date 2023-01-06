@@ -3,8 +3,8 @@
 		   {
 		
 			"banner_type":"admob",
-			"inter_type":"yandex",
-			"native_type":"yandex",
+			"inter_type":"admob",
+			"native_type":"admob",
 			
 			
 			
@@ -16,9 +16,9 @@
 			"native_yandex":"R-M-1723200-3",
 			"rewarde_yandex":"R-M-1723200-5",
 
-			"banner_admob":"ca-app-pub-2341993601826777/9639337908",
-			"interstitial_admob":"ca-app-pub-9611218238680058/8733912395",
-			"native_admob":"ca-app-pub-8095421128439590/3407756453",
+			"banner_admob":"ca-app-pub-4058357467693617/1109811817",
+			"interstitial_admob":"ca-app-pub-4058357467693617/3091968826",
+			"native_admob":"ca-app-pub-4058357467693617/3191739858",
 			 "rewarde_admob":"ca-app-pub-4895400046434961/3861183724",  
    
 			"banner_admob1":"ca-app-pub-2341993601826777/9639337908",
